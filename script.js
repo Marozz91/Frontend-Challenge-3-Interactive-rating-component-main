@@ -23,42 +23,46 @@
 
     submitBtn1.addEventListener("click", function () {
 
+        const text = submitBtn1.innerText;
+
         const para = document.querySelector(".rating");
-        para.innerHTML = `You selected ${1} out of 5`
+        para.innerHTML = `You selected ${text} out of 5`
 
     });
 
 
     submitBtn2.addEventListener("click", function () {
 
+        const text = submitBtn2.innerText;
+
 
         const para = document.querySelector(".rating");
-        para.innerHTML = `You selected ${2} out of 5`
+        para.innerHTML = `You selected ${text} out of 5`
 
     });
 
 
     submitBtn3.addEventListener("click", function () {
 
-
+        const text = submitBtn3.innerText;
         const para = document.querySelector(".rating");
-        para.innerHTML = `You selected ${3} out of 5`
+        para.innerHTML = `You selected ${text} out of 5`
 
     });
 
     submitBtn4.addEventListener("click", function () {
 
-
+        const text = submitBtn4.innerText;
         const para = document.querySelector(".rating");
-        para.innerHTML = `You selected ${4} out of 5`
+        para.innerHTML = `You selected ${text} out of 5`
 
     });
 
 
     submitBtn5.addEventListener("click", function () {
-
+        const text = submitBtn5.innerText;
         const para = document.querySelector(".rating");
-        para.innerHTML = `You selected ${5} out of 5`
+        para.innerHTML = `You selected ${text} out of 5`
 
     });
 
