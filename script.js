@@ -9,9 +9,6 @@
         document.querySelector(".thank-you-state").style.visibility = "visible";
         document.querySelector(".section-content").style.visibility = "hidden";
 
-
-
-
     });
 
 
