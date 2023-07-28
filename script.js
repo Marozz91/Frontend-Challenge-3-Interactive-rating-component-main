@@ -24,7 +24,6 @@
     submitBtn1.addEventListener("click", function () {
 
         const text = submitBtn1.innerText;
-
         const para = document.querySelector(".rating");
         para.innerHTML = `You selected ${text} out of 5`
 
@@ -34,8 +33,6 @@
     submitBtn2.addEventListener("click", function () {
 
         const text = submitBtn2.innerText;
-
-
         const para = document.querySelector(".rating");
         para.innerHTML = `You selected ${text} out of 5`
 
@@ -60,6 +57,7 @@
 
 
     submitBtn5.addEventListener("click", function () {
+
         const text = submitBtn5.innerText;
         const para = document.querySelector(".rating");
         para.innerHTML = `You selected ${text} out of 5`
