@@ -1,4 +1,4 @@
-	example: Link: [link to project](https://marozz91.github.io/Frontend-Mentor-Challenge-3-Interactive-rating-component-main/)
+Link: [link to project](https://marozz91.github.io/Frontend-Mentor-Challenge-3-Interactive-rating-component-main/)
 
 # Frontend Mentor - Interactive rating component
 
