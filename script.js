@@ -5,6 +5,7 @@
     const buttons = document.querySelectorAll(".btn");
     const para = document.getElementById("rating");
 
+
     btnSubmit.addEventListener("click", function () {
 
         document.querySelector(".thank-you-state").classList.remove("hidden");
@@ -22,6 +23,5 @@
 
         });
     });
-
 
 })();
