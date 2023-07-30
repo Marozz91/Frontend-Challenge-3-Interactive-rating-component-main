@@ -11,9 +11,10 @@
         btn.addEventListener("click", function () {
 
             const text = btn.innerText;
-            ratingPara.innerHTML = `You selected ${text} out of 5`
+            ratingPara.innerHTML = `You selected ${text} out of 5`;
 
         });
+
     });
 
 
