@@ -42,7 +42,7 @@ body {
     font-size: 0.938rem;
     color: hsl(216, 12%, 54%);
     background-color: hsl(216, 12%, 8%);
-    min-height: 70vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     place-content: center;
@@ -65,7 +65,7 @@ body {
 
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
 }
 
 
